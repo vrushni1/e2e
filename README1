@@ -1,0 +1,7 @@
+package system.test.check5
+
+import future.keywords.if
+
+default allowuser := true
+
+allowuser if input.perm == "world"
