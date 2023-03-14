@@ -4,4 +4,4 @@ import future.keywords.if
 
 default allowuser := true
 
-allowuser if input.perm == "world4"
+allowuser if input.perm == "world5"
